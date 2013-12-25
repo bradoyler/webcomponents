@@ -4,7 +4,13 @@
   "dependencies": {
     "sass-bootstrap": "~3.0.0",
     "platform": "Polymer/platform#master",
-    "polymer": "Polymer/polymer#master"
+    "polymer": "Polymer/polymer#master",
+    "polymer-ajax": "Polymer/polymer-ajax#~0.1.1",
+    "polymer-ui-weather": "Polymer/polymer-ui-weather#~0.1.1"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "resolutions": {
+    "platform": "0.1.1",
+    "polymer": "0.1.1"
+  }
 }
